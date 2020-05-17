@@ -584,6 +584,7 @@ box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.16), 0px 4px 4px rgba(0, 0, 0, 0.06), 0p
 }
     
 .portfolio .text-hover {
+    display: none;
     margin: 63px 24px;
  
     color: var(--title-text-color);
